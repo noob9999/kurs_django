@@ -4,4 +4,6 @@ Tekst dodany w pierwotnym repo
 
 dopisane w repo Testy
 
-Klejna linijka dodana w kopii repo
+Kolejna linijka dodana w kopii repo
+
+Dodałem coś od siebie.
