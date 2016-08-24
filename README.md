@@ -7,3 +7,5 @@ dopisane w repo Testy
 Kolejna linijka dodana w kopii repo
 
 Dodałem coś od siebie.
+
+To może jeszcze coś tam.
